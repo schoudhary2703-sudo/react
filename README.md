@@ -39,12 +39,11 @@ Topics covered:
 react/
 │
 ├── project-name/
-│ ├── src/
-│ ├── public/
-│ ├── package.json
-│ └── README.md
-│
+├── src/
+├── public/
+├── package.json
 └── README.md
+
 
 
 ## 🚀 Getting Started
