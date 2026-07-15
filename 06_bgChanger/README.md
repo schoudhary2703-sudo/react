@@ -19,4 +19,4 @@ A lightweight React mini-project that allows users to dynamically change the app
 
 1. Clone the repository:
    ```bash
-   git clone <your-github-repo-url-here>
+   git clone https://github.com/schoudhary2703-sudo/react/tree/main/06_bgChanger
