@@ -31,6 +31,8 @@ react/
 │
 ├── 05_propsAndTailwind/
 │   └── React Props and Tailwind CSS implementation
+├── 06_bgChanger/
+│   └── miniproject using tailwind CSS and react to change background Color
 │
 └── README.md
 ```
